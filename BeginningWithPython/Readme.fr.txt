@@ -1,4 +1,5 @@
-# MOOC - Démarrez votre projet avec Python
+# MOOC - DÃ©marrez votre projet avec Python
 # ----------------------------------------
-# Exemples de programme Python pour le Mooc pour débuter en python
+# Source : OpenClassRooms.com 
+# Exemples de programme Python pour le Mooc pour dÃ©buter en python
 
